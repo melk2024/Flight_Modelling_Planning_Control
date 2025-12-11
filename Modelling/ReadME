@@ -1,0 +1,3 @@
+A 6DOF drone nonlinear model with 12 state variables were proposed and 
+linear controllers were designed using pole placement and state feedback with LQR, 
+and also nonlinear controller was designed using exact-linearization method in MATLAB/Simulink.
